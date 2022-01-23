@@ -51,47 +51,21 @@ namespace classes
             lineOfCredit.PerformMonthEndTransactions();
             Console.WriteLine(lineOfCredit.GetAccountHistory());
 
-            //! Test that the initial balances must be positive.
-            // BankAccount invalidAccount;
-            // try
-            // {
-            //     invalidAccount = new BankAccount("invalid", -55);
-            // }
-            // catch (ArgumentOutOfRangeException e)
-            // {
-            //     Console.WriteLine("Exception caught creating account with negative balance");
-            //     Console.WriteLine(e.ToString());
-            //     return;
-            // }
+            MyClass.TestMethod();
+            Program.MyClass2.MyMethod();
+            MyClass3.HelloWorld();
 
-            //! Test for a negative balance.
-            // try
-            // {
-            //     account.MakeWithdrawal(750, DateTime.Now, "Attempt to overdraw");
-            // }
-            // catch (InvalidOperationException e)
-            // {
-            //     Console.WriteLine("Exception caught trying to overdraw");
-            //     Console.WriteLine(e.ToString());
-            // }
-
-
-
-            // MyClass.TestMethod();
-            // Program.MyClass2.MyMethod();
-            // MyClass3.HelloWorld();
-
-            // if (args.Length > 0)
-            // {
-            //     foreach (var arg in args)
-            //     {
-            //         Console.WriteLine($"Argument={arg}");
-            //     }
-            // }
-            // else
-            // {
-            //    Console.WriteLine("No arguments");
-            // }
+            if (args.Length > 0)
+            {
+                foreach (var arg in args)
+                {
+                    Console.WriteLine($"Argument={arg}");
+                }
+            }
+            else
+            {
+               Console.WriteLine("No arguments");
+            }
         }
         class MyClass2
         {
