@@ -92,9 +92,9 @@ namespace classes2
             {
                 throw new ArgumentOutOfRangeException(nameof(amount), "Amount of withdrawal must be positive");
             }
-            Console.WriteLine($"Balanace : {Balance}");
-            Console.WriteLine($"amount : {amount}");
-            Console.WriteLine($"minimumBalance : {minimumBalance}");
+            // Console.WriteLine($"Balanace : {Balance}");
+            // Console.WriteLine($"amount : {amount}");
+            // Console.WriteLine($"minimumBalance : {minimumBalance}");
             var overdraftTransaction = CheckWithdrawalLimit(Balance - amount < minimumBalance);
 
             var withdrawal = new Transaction(-amount, date, note);
