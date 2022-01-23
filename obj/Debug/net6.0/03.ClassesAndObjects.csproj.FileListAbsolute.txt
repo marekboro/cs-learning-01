@@ -1,0 +1,15 @@
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/bin/Debug/net6.0/03.ClassesAndObjects
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/bin/Debug/net6.0/03.ClassesAndObjects.deps.json
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/bin/Debug/net6.0/03.ClassesAndObjects.runtimeconfig.json
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/bin/Debug/net6.0/03.ClassesAndObjects.dll
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/bin/Debug/net6.0/ref/03.ClassesAndObjects.dll
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/bin/Debug/net6.0/03.ClassesAndObjects.pdb
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.csproj.AssemblyReference.cache
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.AssemblyInfo.cs
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.dll
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/ref/03.ClassesAndObjects.dll
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.pdb
+/Users/user/codeclan_work/afterCodeClan/techTest-IGS/tut/03.ClassesAndObjects/obj/Debug/net6.0/03.ClassesAndObjects.genruntimeconfig.cache
